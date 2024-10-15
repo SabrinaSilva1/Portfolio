@@ -1,0 +1,1 @@
+Introdução à linguagem Python, com foco em estruturas básicas e manipulação de dados. Conhecimento de criação e utilização de funções para modularização do código. Familiaridade com a sintaxe e conceitos fundamentais da linguagem.
